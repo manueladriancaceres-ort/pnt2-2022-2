@@ -1,0 +1,10 @@
+Temas del dia, 1/9
+
+Repaso sobre vuejs
+
+Componentes
+	Conceptos
+	Registro
+	Props
+	Events
+

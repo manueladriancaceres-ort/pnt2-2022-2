@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script src="https://unpkg.com/vue@3"></script>
+    <h2>Sistema</h2>
+    <div id="app">
+        {{ mensaje }}
+        Ingrese nuevo mensaje <input v-model="inputMensaje" type="text">
+        <button @click="cambiarMensaje">Cambiar mensaje</button>
+        mensaje instantaneo <input v-model ="mensaje" type = "text">
+
+        {{ 10 + 34 }}
+        <p><span v-bind:style="myStyle">{{miTexto}}</span></p>
+        Ingrese color <input v-model="coloraCambiar" type="text" placeholder="ingrese un color">
+        <button @click="cambiarColor">Cambiar color</button>
+        
+        Ingrese nuevo texto <input v-model="nuevoTexto" type="text">
+        <button @click="cambiarTexto">Cambiar texto</button>
+
+
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
+
+
+
