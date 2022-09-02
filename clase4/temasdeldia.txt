@@ -1,6 +1,13 @@
 Temas del dia, 1/9
 
 Repaso sobre vuejs
+	Configuracion
+	Interpolación
+	Renderizado
+	Ejercicio en grupo
+	Kahoot!	
+
+Instalación de vue.js
 
 Componentes
 	Conceptos
