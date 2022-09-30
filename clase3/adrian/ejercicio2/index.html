@@ -10,9 +10,9 @@
     <script src="https://unpkg.com/vue@3"></script>
     <h2>Sistema</h2>
     <div id="app">
-        <li v-for="r in listaLibros">
-            {{ r.nombre }} &nbsp &nbsp &nbsp
-            {{ r.cantidad }}   
+        <li v-for="libro in listaLibros">
+            {{ libro.nombre }} &nbsp &nbsp &nbsp
+            {{ libro.cantidad }}   
         </li>
         Libro <input v-model="libro.nombre" type="text" 
         placeholder="ingrese un nombre de un libro">  

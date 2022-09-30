@@ -1,0 +1,10 @@
+Ejercicio
+
+Crear un proyecto con vuejs para una empresa de seguros, para registrar los comentarios
+de los clientes, para lo cual se pide:
+
+1- Crud de clientes: [ idCliente, nombre ]
+2- Componente para comentarios: [ código, póliza, comentario ]
+3- Componente para listar y eliminar comentarios
+
+Bonus: conectar con una mock api.

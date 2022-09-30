@@ -1,0 +1,9 @@
+Temas del dia, 29/9
+
+	Ruteo lado del cliente
+	Pagina spa
+
+Ejercicio en grupo
+
+	Conexión a una mock api
+	Uso de axios	

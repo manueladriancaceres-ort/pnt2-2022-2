@@ -1,0 +1,7 @@
+Temas del dia, 22/9
+
+	Repaso sobre componentes vuejs
+	Conexión a una mock api
+	Uso de axios	
+
+Ejercicio en grupo
